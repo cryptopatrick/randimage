@@ -1,6 +1,11 @@
+
 # Fingerprint
 ```randimage``` will generate a __fingerprint__ image file of PNG format.  
 Each image has a width of 680 pixels and a height of 20 pixels.  
+
+## Example
+This is a generated, 640 wide and 20 heigh, fingerprint png:  
+![](https://github.com/cryptopatrick/randimage/blob/master/assets/example.png?raw=true)
 
 ## Permutation Space
 The image will contain 68*2 = 136 small squares or colors.
