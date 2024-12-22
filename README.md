@@ -23,3 +23,8 @@ In that same directory you should find the image file with the given name.
   the permutation space, I will likely keep it the same, somehow.
 + (if I can get it to work) Provide an image as a source of colorspace
   to generate the fingerprint from.
+
+## Please, don't hesitate to make suggestions
+Just open a Pull Request and make suggestions for things you'd like to see in randimage.
+I'll see if it's something that I can implement. Of course, feel free to make make
+the suggested change and an PR.
