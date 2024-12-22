@@ -11,6 +11,9 @@ fn main() {
     }
     let output_filename = &args[1];
 
+    //Alternative width for testing purposes.
+    //1280_320_80
+    //1280_640_80
     let width = 680u32;
     let height = 20u32;
     let block_size = 10u32;
