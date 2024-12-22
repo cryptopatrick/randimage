@@ -4,8 +4,10 @@
 Each image has a width of 680 pixels and a height of 20 pixels.  
 
 ## Example
-This is a generated, 640 wide and 20 heigh, fingerprint png:  
+This is a generated, 680 pixels wide and 20 pixels heigh, generated fingerprint png:
 ![](https://github.com/cryptopatrick/randimage/blob/master/assets/example.png?raw=true)
+<!-- ![example](assets/example.png)-->
+
 
 ## Permutation Space
 The image will contain 68*2 = 136 small squares or colors.
